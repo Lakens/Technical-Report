@@ -1,5 +1,4 @@
-```
-export function transformDomArray(domArray, options={}){
+port function transformDomArray(domArray, options={}){
   let mappings = {
     'P': 'DIV',
     'SPAN': null, // a comment here
