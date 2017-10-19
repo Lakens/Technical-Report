@@ -1,6 +1,4 @@
 abstract.html
-untitled.html
-12e64.md
 fgkj2p21n6o.html
 c2ef.tex
 e61f.md
