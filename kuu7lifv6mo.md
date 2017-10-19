@@ -1,8 +1,7 @@
 ---
 title             : "Equivalence Testing for Psychological Science"
 shorttitle        : "Equivalence Testing"
-
-author: 
+uthor: 
   - name          : "Daniel Lakens"
     affiliation   : "1"
     corresponding : yes    # Define only one corresponding author
