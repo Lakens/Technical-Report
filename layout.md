@@ -2,7 +2,5 @@ abstract.html
 fgkj2p21n6o.html
 c2ef.tex
 e61f.md
-181a0.html
-tjee5bjt1lo.html
 figures/dots
 5875r42uqgg.html
